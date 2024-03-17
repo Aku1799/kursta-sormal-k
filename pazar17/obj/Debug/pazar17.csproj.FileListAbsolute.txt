@@ -1,0 +1,14 @@
+C:\Users\ARIBILGI\Desktop\Denemeler\pazar17\bin\Debug\pazar17.exe.config
+C:\Users\ARIBILGI\Desktop\Denemeler\pazar17\bin\Debug\pazar17.exe
+C:\Users\ARIBILGI\Desktop\Denemeler\pazar17\bin\Debug\pazar17.pdb
+C:\Users\ARIBILGI\Desktop\Denemeler\pazar17\obj\Debug\pazar17.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\Denemeler\pazar17\obj\Debug\pazar17.csproj.SuggestedBindingRedirects.cache
+C:\Users\ARIBILGI\Desktop\Denemeler\pazar17\obj\Debug\pazar17.Form1.resources
+C:\Users\ARIBILGI\Desktop\Denemeler\pazar17\obj\Debug\pazar17.Properties.Resources.resources
+C:\Users\ARIBILGI\Desktop\Denemeler\pazar17\obj\Debug\pazar17.csproj.GenerateResource.cache
+C:\Users\ARIBILGI\Desktop\Denemeler\pazar17\obj\Debug\pazar17.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\Denemeler\pazar17\obj\Debug\pazar17.exe
+C:\Users\ARIBILGI\Desktop\Denemeler\pazar17\obj\Debug\pazar17.pdb
+C:\Users\ARIBILGI\Desktop\Denemeler\pazar17\obj\Debug\pazar17.Form2.resources
+C:\Users\ARIBILGI\Desktop\Denemeler\pazar17\obj\Debug\pazar17.Form3.resources
+C:\Users\ARIBILGI\Desktop\Denemeler\pazar17\obj\Debug\pazar17.Form4.resources
