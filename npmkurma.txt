@@ -1,0 +1,9 @@
+npm en sondan bir önceki sürümü indir
+next next yap
+cmd den node -v
+ls nerde olduğunu öğren
+cd desktop masaüstü gider
+ilk klasör oluştur
+cd klasöradı
+ondan sonra kurulum
+npm olmazsa npx
